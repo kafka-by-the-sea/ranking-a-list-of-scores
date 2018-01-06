@@ -1,6 +1,3 @@
-# ranking-a-list-of-scores
-
-```php
 <?php
 
 use Illuminate\Support\Collection;
@@ -46,4 +43,4 @@ function applyMinRank($tiedScores)
         ]);
     });
 }
-```
+

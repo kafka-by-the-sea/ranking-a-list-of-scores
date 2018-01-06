@@ -1,0 +1,5 @@
+{
+    "require": {
+        "Illuminate/Support": "^5.5"
+    }
+}
